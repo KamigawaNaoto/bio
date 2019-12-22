@@ -1,5 +1,7 @@
 # Bio
 
+![bio](dist/Kamigawa_BioCard_2019_A_without_bleed.png)
+
 **NOTE: the illustrations copyrights to original authors.**
 
 ## Thanks
